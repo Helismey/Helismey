@@ -13,13 +13,13 @@
 
 Onde me encontrar? :mag:  
 
-<a href="https://twitter.com/Helismey_"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/Helismey_)   
+<a target="_blank" href="https://twitter.com/Helismey_"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/Helismey_)   
 
-<a href="https://www.instagram.com/hx.silva/"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/hx.silva/)  
+<a target="_blank" href="https://www.instagram.com/hx.silva/"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/hx.silva/)  
 
-<a href="https://www.linkedin.com/in/helismey-xavier/"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/helismey-xavier/)  
+<a target="_blank" href="https://www.linkedin.com/in/helismey-xavier/"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/helismey-xavier/)  
 
-<a href="mailto:helismey.xavier@gmail.com"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/email.png" width="16"></img></a> [Email](mailto:helismey.xavier@gmail.com)  
+<a target="_blank" href="mailto:helismey.xavier@gmail.com"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/email.png" width="16"></img></a> [Email](mailto:helismey.xavier@gmail.com)  
 
 ---  
 
